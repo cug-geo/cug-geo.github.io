@@ -1,0 +1,32 @@
+I"o<h1 id="2020-4-1-qgis-影像几何校正及数字化">2020-4-1-QGIS 影像几何校正及数字化</h1>
+<p>reference: https://malagis.com/qgis-handbook-7-1.html</p>
+
+<p>影像校正(GeoReference)指的是将无坐目标影像透过参考图层建立控制点，将其赋予坐标。有许多影像拥有很多有用的信息，但却没有坐标信息，若能赋予这些影像坐标，将可大幅提升其使用效用。</p>
+
+<p>1､ 利用Browser里面的XYZ Tiles加载一张底图<img src="https://i.imgur.com/dVlCDE5.png" alt="屏幕快照 2020-04-01 上午11.34.26" /></p>
+
+<p>2､ 打开影像几何校正工具
+<img src="https://i.imgur.com/uAvwn7B.png" alt="屏幕快照 2020-04-01 上午11.49.15" /></p>
+
+<p>3､ 载入待编码影像
+<img src="https://i.imgur.com/o67mf9J.png" alt="屏幕快照 2020-04-01 上午11.50.44" /></p>
+
+<p>4､确定影像基准（Add points, 拟合方式，转化）
+<img src="https://i.imgur.com/Kimne3h.png" alt="屏幕快照 2020-04-01 上午11.57.10" /></p>
+
+<p>5､ 生成的.tif文件重新加载<img src="https://i.imgur.com/6dpv4NW.png" alt="屏幕快照 2020-04-01 下午12.04.36" />
+<img src="https://i.imgur.com/TQweooG.png" alt="屏幕快照 2020-04-01 下午12.05.27" /></p>
+
+<p>6､建立图层，即可以对线断进行数据化<img src="https://i.imgur.com/Em9eOmd.png" alt="屏幕快照 2020-04-01 下午12.09.01" /></p>
+
+<p>7､建立多个后可以将多个多边形图层合并
+<img src="https://i.imgur.com/QNdRbqk.png" alt="屏幕快照 2020-04-01 下午12.12.55" /></p>
+
+<p><img src="https://i.imgur.com/y21AJhJ.png" alt="屏幕快照 2020-04-01 下午12.13.08" /></p>
+
+<p><img src="https://i.imgur.com/zmUcu5l.png" alt="屏幕快照 2020-04-01 下午12.12.23" /></p>
+
+<p>9､文件包可以保存为.qgz文件，也可以输出为.kml文件
+<img src="https://i.imgur.com/anAi7hH.png" alt="屏幕快照 2020-04-01 下午12.18.11" /></p>
+
+:ET
