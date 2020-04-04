@@ -1,5 +1,14 @@
-I"�	<h1 id="2020-3-31-基于地貌坡度的断层震间速率确定一">2020-3-31-基于地貌坡度的断层震间速率确定(一)</h1>
+I"�<h1 id="2020-3-31-基于地貌坡度的断层震间速率确定一">2020-3-31-基于地貌坡度的断层震间速率确定(一)</h1>
 <p>参考文献: Franklin D. Wolfe, Timothy A. Stahl, Pilar Villamor, and Biljana Lukovic, (2019). Short communication: A semi-automated method for rapid fault slip analysis from topographic scarp profiles, EGU.</p>
+
+<p>Code availability. 
+All codes, as well as the user manual along with a copyright statement and disclaimer, can be found at this Github Repository: https://github.com/wolfefranklin/MCSST_2019 (Wolfe, 2020).</p>
+
+<p>Data availability. 
+Datasets used in this study include the New Zealand Active Fault database, which can be found here: http://data.gns.cri.nz/af/, GNS Science, 2020a; the Geologic Map of New Zealand, which can be found here: https://www.gns.cri.nz/Home/Our-Science/Land-and-Marine-Geoscience/Regional-Geology/Geological-Maps/1-250-000-Geological-Map-of-New-Zealand-QMAP/Digital-Data-and-Downloads, GNS Science, 2020b; and elevation data, which can be found here: https://data.linz.govt.nz/data/category/elevation/ (Land Information New Zealand Data Service, 2020).</p>
+
+<p>Supplement. 
+The supplement related to this article is available online at: https://doi.org/10.5194/esurf-8-211-2020-supplement.</p>
 
 <h2 id="下载工具包提前安装好qgis3软件">下载工具包（提前安装好QGIS3软件）</h2>
 <p>git clone https://github.com/wolfefranklin/MCSST_2019</p>
